@@ -10,7 +10,7 @@ Il tondo blu "Io voglio" rappresenta l'apertura standard della frase.
 In basso è presente la barra delle categorie (Cibo, Bevande, Azioni, Emozioni, Persone, Luoghi…) che sono colorate secondo la codifica Fitzgerald.
 Al centro dello schermo risiede la griglia di tessere (2×2, 3×3 o 4×4) della categoria attiva.Ad ogni tocco l'app pronuncia la parola con la voce del dispositivo e vibra.
 
-#Salti contestuali
+# Salti contestuali
 Toccando "Mangiare" la board passa da sola alla categoria Cibo, allo stesso modo "Bere" passa a Bevande ed "Andare" passa a Luoghi. Questo aiuta a supportare il completamento della frase in modo naturale.
 
 # Requisiti dispositivo
