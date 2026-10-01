@@ -10,8 +10,14 @@ Il tondo blu "Io voglio" in basso a destra rappresenta l'apertura standard della
 In basso è presente la barra delle categorie (Cibo, Bevande, Azioni, Emozioni, Persone, Luoghi…) che sono colorate secondo la codifica Fitzgerald. Questa barra è scorrevole verso sinistra.
 Al centro dello schermo risiede la griglia delle tessere (2×2, 3×3 o 4×4) riferite alla categoria attiva. Ogni tessera contiene un'immagine e al tocco di ciascuna di queste l'app pronuncia la parola associata.
 
-# Salti contestuali
+# Salti contestuaPiccole modifiche grafiche.li
 Toccando "Mangiare" la barra delle categorie seleziona automaticamente la categoria Cibo, allo stesso modo "Bere" passa a Bevande ed "Andare" passa a Luoghi. Questo aiuta a supportare il completamento della frase in modo naturale.
+
+# Modifica dinamica dei colori delle categorie e delle tessere
+E' possibile modificare i colori di categorie e di contorno delle tessere tra una tavolozza predefinita.
+
+# Modalità Tablet
+Se utilizzata su un tablet Android, l'APP regolerà dinamicamente le dimensioni delle immagini ed il posizionamento dei pulsanti e degli altri oggetti sullo schermo in modo da sfruttare il maggiore spazio schermo disponibile.
 
 # Requisiti dispositivo
 Android 8.0+.  
